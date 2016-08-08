@@ -1,4 +1,4 @@
-# Projeto de estudo do Framework Django 
+# Projeto de estudo do Framework Django (1.10)
 
 Criando um Simples Mooc
 
