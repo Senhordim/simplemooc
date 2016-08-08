@@ -10,3 +10,6 @@ curl https://bootstrap.pypa.io/ez_setup.py -o - | sudo python
 ```
 
 ### 2 Instalando o pip
+```
+sudo easy_install pip
+```
