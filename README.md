@@ -2,4 +2,8 @@
 
 Criando um Simples Mooc
 
-## Instalando gerenciado de pacote pip
+## Instalando gerenciador de pacote pip
+
+### 1 Instalando o easy_install pip
+
+### 2 Instalando o pip
